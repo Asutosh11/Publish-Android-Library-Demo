@@ -1,0 +1,4 @@
+rootProject.name = "AndroidLibraryProject"
+include ':app'
+include ':submodule1'
+include ':submodule2'
